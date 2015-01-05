@@ -151,7 +151,8 @@ Navigation
   font-family: 'Roboto Slab', sans-serif;
   font-weight:100;
   font-size:1.2em;
-  letter-spacing: .04em
+  letter-spacing: .04em;
+  color:#FFF;
 }
 
 .collapse.in .nav li a,
