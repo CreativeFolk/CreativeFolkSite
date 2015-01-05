@@ -89,6 +89,7 @@ body{
 
 h1, h2, h3, h4{
 	margin:0;
+	border-bottom:#333 1px solid;
 }
 
 h1{
